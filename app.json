@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (Ali-BoT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -39,22 +39,22 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": ture,
       "value": ""
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
-      "required": false,
+      "required": ture,
       "value": ""
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
+      "required": ture,
       "value": "false"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
-      "required": false,
+      "required": ture,
       "value": ""
     }
     },
